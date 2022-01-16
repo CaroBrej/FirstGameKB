@@ -1,0 +1,23 @@
+Jest to przygodowa top-down gra 2D z pixelartową grafiką.
+Gra jest raczej demem ze względu na to że jest krótka.
+
+Fabuła:
+Gracz wciela się w rycerza jest poproszony przez króla o pokonanie przeciwników i uratowanie księżniczki.
+
+Gracz może:
+poruszać sie postacią
+wchodzić w interakcje
+atakować na 2 sposoby
+przemieszczać sie między scenami/lokacjami
+zmieniać ekwipunek
+pauzować gre
+
+przeciwnicy reaguja na gracza w pobliżu oraz na bycie zaatakowanymi
+animacje: postaci(idle i run), ataków oraz otwierania skrzynki 
+zewnętrzne assety to tylko grafika i czcionka
+
+potencjalnie w pełnej grze:
+większy rozbudowany świat, więcej przedmiotów i przeciwników, dodanie możlwości gry multiplayer/co-op
+dodanie możliwości rozwoju postaci (nie tylko za pomocą przedmiotów): zdobywanie poziomów, dodanie zaklęć, umiejętności pasywnych.
+dodatkowe możliwe do wyboru przed grą postacie, możliwość ulepszania ekwipunku, dodanie zbieractwa
+dodatkowy tryb gry areny w której to gracz by walczył z nadciągającymi falami coraz silniejszych przeciwników.
